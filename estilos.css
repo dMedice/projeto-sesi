@@ -1,0 +1,43 @@
+
+.cabecalho {
+font-family: 'Times New Roman';
+text-align: center;
+font-size: larger;
+font-style: italic;
+background-color: rgb(255, 160, 71);
+color:black;
+}
+
+.subtitle {
+  font-family: 'Times New Roman';
+  text-align: center;
+  font-size: larger;
+  font-style: italic;
+  background-color: rgb(235, 172, 121);
+  color:black
+}
+
+.corpo {
+  background-color:rgba(158, 156, 150, 0.145);
+  text-align: center;
+  font-size: medium;
+  font-family:'Calibria' ;
+  color:black;
+}
+
+.corpo2 {
+  background-color:rgba(241, 238, 226, 0.764);
+  text-align: center;
+  font-size: medium;
+  
+  font-family:'Calibria' ;
+  color:black;
+}
+
+.rodape {
+background-color: rgb(255, 209, 187);
+text-align: right;
+font-family: 'Times New Roman';
+color:black;
+}
+
